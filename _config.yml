@@ -1,0 +1,12 @@
+# Site settings
+title: Relevant Web Development Elephant
+email: Simontech.huskies@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My name is Jeff Astor and Relevant Web Development Elephant hosts content created by my students at Simon Tech High School in Watts, California. There's also a space for other cool shit I've made cuz I'm a rookie and I'm looking to expand my mothafuckin expertise.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: Jastronaut
+github_username:  Jastor11
+
+# Build settings
+markdown: kramdown
